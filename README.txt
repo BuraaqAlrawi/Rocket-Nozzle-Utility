@@ -1,3 +1,3 @@
 Input combustion pressure and temperature.
-Generates a set of points usual ideal rocket
+Generates a set of points using ideal rocket
 equations.
